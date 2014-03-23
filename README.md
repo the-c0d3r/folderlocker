@@ -15,6 +15,6 @@ Usage
 5. Place this in Drive's root directory.
 6. Done!
 
-Hash to be replaced
 user = 'f8f87915dce091a5571941436df26619' # Replace in between the Single Quote with your Username Hash
+
 pwd = '0192023a7bbd73250516f069df18b500' # Replace in between the Single Quote with your password Hash
