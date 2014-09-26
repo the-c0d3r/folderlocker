@@ -25,6 +25,7 @@ class Locker(Frame):
     
     def msg(self,title,message):                    # to show error message conveniently 
         tkMessageBox.showerror(title,message)
+        
     def about(self):
         tkMessageBox.showinfo('About',
         'This script is written by Anubis from MSF forum\n\
